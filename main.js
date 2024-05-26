@@ -31,7 +31,7 @@ console.log(keyPressed);
 
 	if(keyPressed == '83') 
 	{
-		block_x=450
+		block_x=450;
 		new_image('rr1.png');
 		console.log("r");
 	}
