@@ -31,32 +31,32 @@ console.log(keyPressed);
 
 	if(keyPressed == '83') 
 	{
-		block_x=700;
+		block_x=300;
 		new_image('rr1.png');
 		console.log("r");
 	}
 	if(keyPressed == '71')
 	{
-		block_x = 200;
+		block_x = 100;
 		new_image('gr.png');
 		console.log("g");
 	}
 	
 	if(keyPressed == '89')
 	{
-		block_x =1000;
+		block_x =500;
 		new_image('yr.png');
 		console.log("y");
 	}
 	if(keyPressed == '80')
 	{
-		block_x = 2000;
+		block_x = 700;
 		new_image('pr.png');
 		console.log("p");
 	}
 	if(keyPressed == '66')
 	{
-		block_x = 1500;
+		block_x = 900;
 		new_image('br.png');
 		console.log("b");
 	}
